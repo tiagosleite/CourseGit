@@ -8,6 +8,7 @@ namespace TESTE_GIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom Dia!");
+            Console.WriteLine("Como vc está hoje?");
         }
     }
 }
